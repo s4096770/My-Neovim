@@ -11,7 +11,7 @@ I took inspiration from configs most recently like from [Sylvan "Vimothee" Frank
 
 To install the config, clone the repo to your config folder, typically ~/.config/nvim. Nvim will then prompt to install all plugins
 
-<pre> ```bash git clone https://github.com/s4096770/nvim.git ~/.config/nvim && nvim ``` </pre>
+<pre> git clone https://github.com/s4096770/nvim.git ~/.config/nvim && nvim </pre>
 
 # Linters, LSP's, DSP's and formatters
 [mason.nvim](https://github.com/mason-org/mason.nvim) is used to install LSPs, linters, etc., and as such can be installed using `:Mason`, or to get help `:help mason`.
