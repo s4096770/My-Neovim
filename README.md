@@ -1,7 +1,7 @@
 # NeoVim
 The config is split into 4 files, the root init.lua which calls lua/nvim/plugins.lua, lua/nvim/settings.lua and lua/nvim/keymaps.lua. The config is prioritised to be simple and readable.
 
-I took inspiration from configs most recently like from Sylvan "Vimothee" Franklin aswell as initially learning alot about configuring nvim from kickstart.nvim and YouTubers like The Primagen.
+I took inspiration from configs most recently like from [Sylvan "Vimothee" Franklin] (https://www.youtube.com/watch?v=xGkL2N8w0H4) aswell as initially learning alot about configuring nvim from [kickstart.nvim] (https://github.com/nvim-lua/kickstart.nvim) and YouTubers like [The Primagen] (https://www.youtube.com/watch?v=X6AR2RMB5tE).
 
 Installation and setup
 Important
